@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAVINLAPPY</Machine>
+    <WindowsUser>Gearley</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>70387BC4B849D82E56B65C4845BAC1C43BB6C9D3875C54D88FBBD0084D55B8F0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>07b0c9aa-695d-45b5-98a8-908f28c0eb85_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>07b0c9aa-695d-45b5-98a8-908f28c0eb85_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>07b0c9aa-695d-45b5-98a8-908f28c0eb85</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-10T02:50:11.946</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
+      <PackagePath>KidApp2.exe</PackagePath>
+      <Modified>2012-11-10T02:50:11.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
+      <PackagePath>KidApp2.pdb</PackagePath>
+      <Modified>2012-11-10T02:50:11.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\Bart.png">
+      <PackagePath>Assets\Bart.png</PackagePath>
+      <Modified>2012-11-10T02:48:27.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-13T05:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-13T05:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-13T05:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-10T02:38:44.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+      <Modified>2012-11-10T02:38:44.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2012-11-10T02:46:27.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-10T02:50:11.931</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
