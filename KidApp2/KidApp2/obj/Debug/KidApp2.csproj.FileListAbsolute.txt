@@ -29,3 +29,34 @@ C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\obj\Debug
 C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\obj\Debug\LanguageQualifiers.txt
 C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\obj\Debug\ProjectArchitectures.txt
 C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\Assets\Bart.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\Bart.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.build.appxrecipe
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\App.g.i.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\App.g.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\ItemsPage.g.i.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\ItemsPage.g.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\SplitPage.g.i.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\SplitPage.g.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\App.xaml
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\ItemsPage.xaml
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\SplitPage.xaml
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\KidApp2.exe
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\KidApp2.pdb
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\priconfig.xml.intermediate
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\layout.resfiles.intermediate
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\resources.resfiles.intermediate
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\pri.resfiles.intermediate
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\priconfig.xml
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\layout.resfiles
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\resources.resfiles
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\pri.resfiles
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\LanguageQualifiers.txt
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\ProjectArchitectures.txt
