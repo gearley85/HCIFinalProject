@@ -16,26 +16,22 @@
     <AppXManifest Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-15T17:16:34.706</Modified>
+      <Modified>2012-11-15T17:27:34.550</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
       <PackagePath>KidApp2.exe</PackagePath>
-      <Modified>2012-11-15T17:16:34.623</Modified>
+      <Modified>2012-11-15T17:27:34.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
-      <Modified>2012-11-15T17:16:34.600</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Bart.png">
-      <PackagePath>Assets\Bart.png</PackagePath>
-      <Modified>2012-11-10T02:48:27.391</Modified>
+      <Modified>2012-11-15T17:27:34.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-16T03:42:52.000</Modified>
+      <Modified>2012-11-15T17:26:24.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers.png">
       <PackagePath>Assets\numbers.png</PackagePath>
@@ -53,7 +49,7 @@
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-16T03:42:52.000</Modified>
+      <Modified>2012-11-15T17:28:48.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
@@ -90,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-11-15T17:16:34.688</Modified>
+      <Modified>2012-11-15T17:27:34.496</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

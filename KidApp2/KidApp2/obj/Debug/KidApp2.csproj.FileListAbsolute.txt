@@ -29,7 +29,6 @@ C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\obj\Debug
 C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\obj\Debug\LanguageQualifiers.txt
 C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\obj\Debug\ProjectArchitectures.txt
 C:\Users\Gearley\Documents\Visual Studio 2012\Projects\KidApp2\KidApp2\bin\Debug\Assets\Bart.png
-C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\Bart.png
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri

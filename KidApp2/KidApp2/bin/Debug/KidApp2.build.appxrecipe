@@ -19,9 +19,6 @@
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Bart.png">
-      <PackagePath>Assets\Bart.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
