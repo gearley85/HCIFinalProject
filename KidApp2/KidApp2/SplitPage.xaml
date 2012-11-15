@@ -29,6 +29,9 @@
         Style="{StaticResource LayoutRootStyle}"
         DataContext="{Binding Group}"
         d:DataContext="{Binding AllGroups[0], Source={d:DesignInstance Type=data:SampleDataSource, IsDesignTimeCreatable=True}}">
+    	<Grid.Background>
+    		<ImageBrush ImageSource="Assets/puzzle2.png"/>
+    	</Grid.Background>
 
         <Grid.RowDefinitions>
             <RowDefinition Height="140"/>
@@ -49,8 +52,8 @@
                 x:Name="backButton"
                 Click="GoBack"
                 IsEnabled="{Binding DefaultViewModel.CanGoBack, ElementName=pageRoot}"
-                Style="{StaticResource BackButtonStyle}"/>
-            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="{Binding Title}" Style="{StaticResource PageHeaderTextStyle}"/>
+                Style="{StaticResource BackButtonStyle}" Foreground="#FF1236D8" BorderBrush="#FF1236D8" Background="#FF1236D8"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="{Binding Title}" Style="{StaticResource PageHeaderTextStyle}" Foreground="#DE0E4CF0"/>
         </Grid>
 
         <!-- Vertical scrolling item list -->

@@ -61,3 +61,4 @@ C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\Lang
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\ProjectArchitectures.txt
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\puzzle.png
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\numbers.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\puzzle2.png
