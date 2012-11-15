@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-10T02:50:11.946</Modified>
+      <Modified>2012-11-15T17:16:34.706</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
       <PackagePath>KidApp2.exe</PackagePath>
-      <Modified>2012-11-10T02:50:11.872</Modified>
+      <Modified>2012-11-15T17:16:34.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
-      <Modified>2012-11-10T02:50:11.849</Modified>
+      <Modified>2012-11-15T17:16:34.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Bart.png">
       <PackagePath>Assets\Bart.png</PackagePath>
@@ -36,6 +36,14 @@
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers.png">
+      <PackagePath>Assets\numbers.png</PackagePath>
+      <Modified>2012-11-15T17:14:54.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle.png">
+      <PackagePath>Assets\puzzle.png</PackagePath>
+      <Modified>2012-11-15T16:50:11.984</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
@@ -74,15 +82,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
       <PackagePath>ItemsPage.xaml</PackagePath>
-      <Modified>2012-11-10T02:38:44.233</Modified>
+      <Modified>2012-11-14T17:47:06.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
       <PackagePath>SplitPage.xaml</PackagePath>
-      <Modified>2012-11-10T02:46:27.353</Modified>
+      <Modified>2012-11-14T17:48:03.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-11-10T02:50:11.931</Modified>
+      <Modified>2012-11-15T17:16:34.688</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

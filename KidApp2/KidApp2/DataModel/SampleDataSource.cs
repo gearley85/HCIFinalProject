@@ -260,10 +260,10 @@ namespace KidApp2.Data
                         "Curabitur class aliquam vestibulum nam curae maecenas sed integer cras phasellus suspendisse quisque donec dis praesent accumsan bibendum pellentesque condimentum adipiscing etiam consequat vivamus dictumst aliquam duis convallis scelerisque est parturient ullamcorper aliquet fusce suspendisse nunc hac eleifend amet blandit facilisi condimentum commodo scelerisque faucibus aenean ullamcorper ante mauris dignissim consectetuer nullam lorem vestibulum habitant conubia elementum pellentesque morbi facilisis arcu sollicitudin diam cubilia aptent vestibulum auctor eget dapibus pellentesque inceptos leo egestas interdum nulla consectetuer suspendisse adipiscing pellentesque proin lobortis sollicitudin augue elit mus congue fermentum parturient fringilla euismod feugiat");
 
             var group1 = new SampleDataGroup("Group-1",
-                    "Games",
-                    "Fun",
-                    "Assets/Bart.png",
-                    "Group Description: Games!");
+                    "Puzzles",
+                    "",
+                    "Assets/puzzle.png",
+                    "Group Description: Puzzles!");
             group1.Items.Add(new SampleDataItem("Group-1-Item-1",
                     "Item Title: 1",
                     "Item Subtitle: 1",
@@ -302,9 +302,9 @@ namespace KidApp2.Data
             this.AllGroups.Add(group1);
 
             var group2 = new SampleDataGroup("Group-2",
-                    "Group Title: 2",
-                    "Group Subtitle: 2",
-                    "Assets/LightGray.png",
+                    "Numbers",
+                    "",
+                    "Assets/numbers.png",
                     "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante");
             group2.Items.Add(new SampleDataItem("Group-2-Item-1",
                     "Item Title: 1",
@@ -330,8 +330,8 @@ namespace KidApp2.Data
             this.AllGroups.Add(group2);
 
             var group3 = new SampleDataGroup("Group-3",
-                    "Group Title: 3",
-                    "Group Subtitle: 3",
+                    "Letters",
+                    "",
                     "Assets/MediumGray.png",
                     "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante");
             group3.Items.Add(new SampleDataItem("Group-3-Item-1",
@@ -386,8 +386,8 @@ namespace KidApp2.Data
             this.AllGroups.Add(group3);
 
             var group4 = new SampleDataGroup("Group-4",
-                    "Group Title: 4",
-                    "Group Subtitle: 4",
+                    "Colors",
+                    "",
                     "Assets/LightGray.png",
                     "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante");
             group4.Items.Add(new SampleDataItem("Group-4-Item-1",
@@ -435,8 +435,8 @@ namespace KidApp2.Data
             this.AllGroups.Add(group4);
 
             var group5 = new SampleDataGroup("Group-5",
-                    "Group Title: 5",
-                    "Group Subtitle: 5",
+                    "Shapes",
+                    "",
                     "Assets/MediumGray.png",
                     "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante");
             group5.Items.Add(new SampleDataItem("Group-5-Item-1",
@@ -470,8 +470,8 @@ namespace KidApp2.Data
             this.AllGroups.Add(group5);
 
             var group6 = new SampleDataGroup("Group-6",
-                    "Group Title: 6",
-                    "Group Subtitle: 6",
+                    "Math",
+                    "",
                     "Assets/DarkGray.png",
                     "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante");
             group6.Items.Add(new SampleDataItem("Group-6-Item-1",
