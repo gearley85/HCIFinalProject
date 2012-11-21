@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
       <PackagePath>KidApp2.exe</PackagePath>
-      <Modified>2012-11-15T21:22:35.320</Modified>
+      <Modified>2012-11-16T13:24:18.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
-      <Modified>2012-11-15T21:22:35.297</Modified>
+      <Modified>2012-11-16T13:24:18.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -86,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
       <PackagePath>SplitPage.xaml</PackagePath>
-      <Modified>2012-11-15T21:22:34.075</Modified>
+      <Modified>2012-11-16T13:24:17.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

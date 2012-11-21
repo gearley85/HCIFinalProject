@@ -30,7 +30,7 @@
         DataContext="{Binding Group}"
         d:DataContext="{Binding AllGroups[0], Source={d:DesignInstance Type=data:SampleDataSource, IsDesignTimeCreatable=True}}">
     	<Grid.Background>
-    		<ImageBrush ImageSource="Assets/puzzle2.png"/>
+    		<ImageBrush ImageSource="Assets/MediumGray.png"/>
     	</Grid.Background>
 
         <Grid.RowDefinitions>
