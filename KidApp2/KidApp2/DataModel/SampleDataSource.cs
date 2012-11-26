@@ -267,14 +267,14 @@ namespace KidApp2.Data
             group1.Items.Add(new SampleDataItem("Group-1-Item-1",
                     "Puzzle 1",
                     "",
-                    "Assets/puzzle.png",
+                    "Assets/monkey2.png",
                     "",
                     ITEM_CONTENT,
                     group1));
             group1.Items.Add(new SampleDataItem("Group-1-Item-2",
                     "Puzzle 2",
                     "",
-                    "Assets/DarkGray.png",
+                    "Assets/worldmap2.png",
                     "",
                     ITEM_CONTENT,
                     group1));
@@ -289,14 +289,14 @@ namespace KidApp2.Data
             group2.Items.Add(new SampleDataItem("Group-2-Item-1",
                     "Number Game 1",
                     "",
-                    "Assets/DarkGray.png",
+                    "Assets/numbers2.png",
                     " ",
                     ITEM_CONTENT,
                     group2));
             group2.Items.Add(new SampleDataItem("Group-2-Item-2",
                     "Number Game 2",
                     "",
-                    "Assets/MediumGray.png",
+                    "Assets/mathsongs.png",
                     "",
                     ITEM_CONTENT,
                     group2));

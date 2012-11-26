@@ -62,3 +62,7 @@ C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\Proj
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\puzzle.png
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\numbers.png
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\puzzle2.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\monkey2.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\worldmap2.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\mathsongs.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\numbers2.png

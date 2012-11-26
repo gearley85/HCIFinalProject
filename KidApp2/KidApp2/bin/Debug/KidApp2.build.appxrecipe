@@ -23,8 +23,17 @@
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\mathsongs.png">
+      <PackagePath>Assets\mathsongs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\monkey2.png">
+      <PackagePath>Assets\monkey2.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers.png">
       <PackagePath>Assets\numbers.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers2.png">
+      <PackagePath>Assets\numbers2.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle.png">
       <PackagePath>Assets\puzzle.png</PackagePath>
@@ -52,6 +61,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\worldmap2.png">
+      <PackagePath>Assets\worldmap2.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
