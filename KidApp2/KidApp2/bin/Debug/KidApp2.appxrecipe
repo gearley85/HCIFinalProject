@@ -1,83 +1,104 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>GAVINLAPPY</Machine>
-    <WindowsUser>Gearley</WindowsUser>
+    <Machine>KAREN_VAIO</Machine>
+    <WindowsUser>bob</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
       <PackagePath>KidApp2.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ABC.png">
+      <PackagePath>Assets\ABC.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\abcblocks.png">
+      <PackagePath>Assets\abcblocks.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\abcs.PNG">
+      <PackagePath>Assets\abcs.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\apple.png">
+      <PackagePath>Assets\apple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\charliebrowncolorpage.PNG">
+      <PackagePath>Assets\charliebrowncolorpage.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\colorpuzzle.png">
+      <PackagePath>Assets\colorpuzzle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\colors.png">
+      <PackagePath>Assets\colors.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\mathsongs.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\mathsongs.png">
       <PackagePath>Assets\mathsongs.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\monkey2.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\monkey2.png">
       <PackagePath>Assets\monkey2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers.png">
       <PackagePath>Assets\numbers.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers2.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers2.png">
       <PackagePath>Assets\numbers2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle.png">
       <PackagePath>Assets\puzzle.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle2.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle2.png">
       <PackagePath>Assets\puzzle2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\LightGray.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MediumGray.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MediumGray.png">
       <PackagePath>Assets\MediumGray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\DarkGray.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\worldmap2.png">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\worldmap2.png">
       <PackagePath>Assets\worldmap2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\App.xaml">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
       <PackagePath>ItemsPage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
       <PackagePath>SplitPage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

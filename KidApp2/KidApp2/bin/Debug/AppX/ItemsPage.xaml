@@ -38,13 +38,13 @@
             AutomationProperties.Name="Items"
             TabIndex="1"
             Grid.RowSpan="2"
-            Padding="116,136,116,46"
+            Padding="300,150,150,50"
             ItemsSource="{Binding Source={StaticResource itemsViewSource}}"
             ItemTemplate="{StaticResource Standard250x250ItemTemplate}"
             SelectionMode="None"
             IsSwipeEnabled="false"
             IsItemClickEnabled="True"
-                                           Background="#CC2020FD"/>
+                                           Background="#CC2020FD" Margin="0,0,0,0"/>
 
         <!-- Vertical scrolling list only used when snapped -->
         <ListView x:ConnectionId='2'
