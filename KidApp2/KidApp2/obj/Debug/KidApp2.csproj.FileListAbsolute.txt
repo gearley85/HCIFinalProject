@@ -110,3 +110,10 @@ C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\a
 C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\charliebrowncolorpage.PNG
 C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\colorpuzzle.png
 C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\colors.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ABC.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\abcblocks.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\abcs.PNG
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\apple.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\charliebrowncolorpage.PNG
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\colorpuzzle.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\colors.png
