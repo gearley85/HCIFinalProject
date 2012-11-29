@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
       <PackagePath>KidApp2.exe</PackagePath>
-      <Modified>2012-11-29T16:32:09.353</Modified>
+      <Modified>2012-11-29T16:41:16.303</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
-      <Modified>2012-11-29T16:32:09.328</Modified>
+      <Modified>2012-11-29T16:41:16.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ABC.png">
       <PackagePath>Assets\ABC.png</PackagePath>
@@ -154,7 +154,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
       <PackagePath>ItemsPage.xaml</PackagePath>
-      <Modified>2012-11-29T16:32:07.337</Modified>
+      <Modified>2012-11-29T16:32:39.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
       <PackagePath>SplitPage.xaml</PackagePath>
