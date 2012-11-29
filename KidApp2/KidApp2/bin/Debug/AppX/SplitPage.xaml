@@ -30,7 +30,7 @@
         DataContext="{Binding Group}"
         d:DataContext="{Binding AllGroups[0], Source={d:DesignInstance Type=data:SampleDataSource, IsDesignTimeCreatable=True}}">
     	<Grid.Background>
-    		<ImageBrush ImageSource="Assets/MediumGray.png"/>
+    		<ImageBrush ImageSource="Assets/skyandclouds.png"/>
     	</Grid.Background>
 
         <Grid.RowDefinitions>
@@ -53,7 +53,7 @@
                               
                 IsEnabled="{Binding DefaultViewModel.CanGoBack, ElementName=pageRoot}"
                 Style="{StaticResource BackButtonStyle}" Foreground="#FF1236D8" BorderBrush="#FF1236D8" Background="#FF1236D8"/>
-            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="{Binding Title}" Style="{StaticResource PageHeaderTextStyle}" Foreground="#DE0E4CF0" FontFamily="Segoe Keycaps" FontSize="32"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="{Binding Title}" Style="{StaticResource PageHeaderTextStyle}" Foreground="Yellow" FontFamily="Arial" FontSize="48" FontWeight="Bold"/>
         </Grid>
 
         <!-- Vertical scrolling item list -->
@@ -67,7 +67,7 @@
             ItemsSource="{Binding Source={StaticResource itemsViewSource}}"
             IsSwipeEnabled="False"
                                                             
-            ItemTemplate="{StaticResource Standard130ItemTemplate}" Grid.RowSpan="2"/>
+            ItemTemplate="{StaticResource Standard130ItemTemplate}" Grid.RowSpan="2" FontFamily="Arial"/>
 
         <!-- Details for selected item -->
         <ScrollViewer
