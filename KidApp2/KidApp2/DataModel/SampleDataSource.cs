@@ -350,20 +350,20 @@ namespace KidApp2.Data
             var group5 = new SampleDataGroup("Group-5",
                     "Shapes",
                     "",
-                    "Assets/MediumGray.png",
-                    "Group Description:");
+                    "Assets/ShapeFront.jpg",
+                    "");
             group5.Items.Add(new SampleDataItem("Group-5-Item-1",
-                    "Item Title: 1",
-                    "Item Subtitle: 1",
-                    "Assets/LightGray.png",
-                    "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+                    "Introduction to Shapes",
+                    "",
+                    "Assets/ShapeIntro.jpg",
+                    "",
                     ITEM_CONTENT,
                     group5));
             group5.Items.Add(new SampleDataItem("Group-5-Item-2",
-                    "Item Title: 2",
-                    "Item Subtitle: 2",
-                    "Assets/DarkGray.png",
-                    "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+                    "Matching Shapes Game",
+                    "",
+                    "Assets/ShapeMatching.jpg",
+                    "",
                     ITEM_CONTENT,
                     group5));
            
@@ -372,20 +372,20 @@ namespace KidApp2.Data
             var group6 = new SampleDataGroup("Group-6",
                     "Math",
                     "",
-                    "Assets/DarkGray.png",
-                    "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante");
+                    "Assets/MathFront.jpg",
+                    "");
             group6.Items.Add(new SampleDataItem("Group-6-Item-1",
-                    "Item Title: 1",
-                    "Item Subtitle: 1",
-                    "Assets/LightGray.png",
+                    "Basic Math",
+                    "",
+                    "Assets/MathBasic.jpg",
                     "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
                     ITEM_CONTENT,
                     group6));
             group6.Items.Add(new SampleDataItem("Group-6-Item-2",
-                    "Item Title: 2",
-                    "Item Subtitle: 2",
-                    "Assets/DarkGray.png",
-                    "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+                    "Counting Game",
+                    "",
+                    "Assets/MathCount.png",
+                    "",
                     ITEM_CONTENT,
                     group6));
             
