@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>KAREN_VAIO</Machine>
-    <WindowsUser>bob</WindowsUser>
+    <Machine>xFireize</Machine>
+    <WindowsUser>Fariz</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <RegisteredManifestChecksum>70387BC4B849D82E56B65C4845BAC1C43BB6C9D3875C54D88FBBD0084D55B8F0</RegisteredManifestChecksum>
@@ -13,160 +13,172 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-30T02:28:34.147</Modified>
+      <Modified>2012-11-30T03:27:03.714</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
       <PackagePath>KidApp2.exe</PackagePath>
-      <Modified>2012-11-30T02:28:33.991</Modified>
+      <Modified>2012-11-30T03:27:03.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
-      <Modified>2012-11-30T02:28:33.967</Modified>
+      <Modified>2012-11-30T03:27:03.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ABC.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ABC.png">
       <PackagePath>Assets\ABC.png</PackagePath>
-      <Modified>2012-11-27T18:26:22.401</Modified>
+      <Modified>2012-11-30T02:50:54.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\abcblocks.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\abcblocks.png">
       <PackagePath>Assets\abcblocks.png</PackagePath>
-      <Modified>2012-11-27T19:23:59.403</Modified>
+      <Modified>2012-11-30T02:50:54.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\abcs.PNG">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\abcs.PNG">
       <PackagePath>Assets\abcs.PNG</PackagePath>
-      <Modified>2012-11-27T19:10:01.859</Modified>
+      <Modified>2012-11-30T02:50:54.523</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\apple.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\apple.png">
       <PackagePath>Assets\apple.png</PackagePath>
-      <Modified>2012-11-27T19:23:04.872</Modified>
+      <Modified>2012-11-30T02:50:54.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\charliebrowncolorpage.PNG">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Book0.png">
+      <PackagePath>Assets\Book0.png</PackagePath>
+      <Modified>2012-11-30T03:21:04.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Book1.png">
+      <PackagePath>Assets\Book1.png</PackagePath>
+      <Modified>2012-11-30T03:15:44.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\charliebrowncolorpage.PNG">
       <PackagePath>Assets\charliebrowncolorpage.PNG</PackagePath>
-      <Modified>2012-11-27T19:59:38.229</Modified>
+      <Modified>2012-11-30T02:50:54.531</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\colorpuzzle.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\colorpuzzle.png">
       <PackagePath>Assets\colorpuzzle.png</PackagePath>
-      <Modified>2012-11-27T19:46:12.168</Modified>
+      <Modified>2012-11-30T02:50:54.532</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\colors.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\colors.png">
       <PackagePath>Assets\colors.png</PackagePath>
-      <Modified>2012-11-27T20:06:40.719</Modified>
+      <Modified>2012-11-30T02:50:54.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\crayons.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\crayons.png">
       <PackagePath>Assets\crayons.png</PackagePath>
-      <Modified>2012-11-30T02:25:49.980</Modified>
+      <Modified>2012-11-30T02:50:54.537</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-27T17:42:15.810</Modified>
+      <Modified>2012-11-30T02:50:54.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MathCount.PNG">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MathCount.PNG">
       <PackagePath>Assets\MathCount.PNG</PackagePath>
-      <Modified>2012-11-29T16:08:02.936</Modified>
+      <Modified>2012-11-30T02:50:54.477</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\mathsongs.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\mathsongs.png">
       <PackagePath>Assets\mathsongs.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.833</Modified>
+      <Modified>2012-11-30T02:50:54.539</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\monkey2.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\monkey2.png">
       <PackagePath>Assets\monkey2.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.846</Modified>
+      <Modified>2012-11-30T02:50:54.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers.png">
       <PackagePath>Assets\numbers.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.852</Modified>
+      <Modified>2012-11-30T02:50:54.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers2.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\numbers2.png">
       <PackagePath>Assets\numbers2.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.853</Modified>
+      <Modified>2012-11-30T02:50:54.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle.png">
       <PackagePath>Assets\puzzle.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.869</Modified>
+      <Modified>2012-11-30T02:50:54.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle2.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\puzzle2.png">
       <PackagePath>Assets\puzzle2.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.878</Modified>
+      <Modified>2012-11-30T02:50:54.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\skyandclouds.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\skyandclouds.png">
       <PackagePath>Assets\skyandclouds.png</PackagePath>
-      <Modified>2012-11-29T16:11:47.074</Modified>
+      <Modified>2012-11-30T02:50:54.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-27T17:42:15.812</Modified>
+      <Modified>2012-11-30T02:50:54.488</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-27T17:42:15.816</Modified>
+      <Modified>2012-11-30T02:50:54.490</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-27T17:42:15.817</Modified>
+      <Modified>2012-11-30T02:50:54.491</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\LightGray.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.809</Modified>
+      <Modified>2012-11-30T02:50:54.472</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MediumGray.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MediumGray.png">
       <PackagePath>Assets\MediumGray.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.811</Modified>
+      <Modified>2012-11-30T02:50:54.481</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\DarkGray.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.808</Modified>
+      <Modified>2012-11-30T02:50:54.471</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\worldmap2.png">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\worldmap2.png">
       <PackagePath>Assets\worldmap2.png</PackagePath>
-      <Modified>2012-11-27T17:42:15.892</Modified>
+      <Modified>2012-11-30T02:50:54.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MathBasic.jpg">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MathBasic.jpg">
       <PackagePath>Assets\MathBasic.jpg</PackagePath>
-      <Modified>2012-11-29T16:08:02.932</Modified>
+      <Modified>2012-11-30T02:50:54.475</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MathFront.jpg">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\MathFront.jpg">
       <PackagePath>Assets\MathFront.jpg</PackagePath>
-      <Modified>2012-11-29T16:08:02.938</Modified>
+      <Modified>2012-11-30T02:50:54.480</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapeFront.jpg">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ReadFront.jpg">
+      <PackagePath>Assets\ReadFront.jpg</PackagePath>
+      <Modified>2012-11-30T03:22:34.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapeFront.jpg">
       <PackagePath>Assets\ShapeFront.jpg</PackagePath>
-      <Modified>2012-11-29T16:08:02.941</Modified>
+      <Modified>2012-11-30T02:50:54.481</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapeIntro.jpg">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapeIntro.jpg">
       <PackagePath>Assets\ShapeIntro.jpg</PackagePath>
-      <Modified>2012-11-29T16:08:02.944</Modified>
+      <Modified>2012-11-30T02:50:54.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapeMatching.jpg">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapeMatching.jpg">
       <PackagePath>Assets\ShapeMatching.jpg</PackagePath>
-      <Modified>2012-11-29T16:08:02.947</Modified>
+      <Modified>2012-11-30T02:50:54.487</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\App.xaml">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
-      <Modified>2012-11-27T17:42:15.803</Modified>
+      <Modified>2012-11-30T02:50:54.464</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
-      <Modified>2012-11-29T16:20:09.156</Modified>
+      <Modified>2012-11-30T02:50:54.658</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
       <PackagePath>ItemsPage.xaml</PackagePath>
-      <Modified>2012-11-30T02:28:32.496</Modified>
+      <Modified>2012-11-30T02:50:54.682</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
       <PackagePath>SplitPage.xaml</PackagePath>
-      <Modified>2012-11-29T16:23:56.059</Modified>
+      <Modified>2012-11-30T02:50:54.704</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-11-30T02:28:34.100</Modified>
+      <Modified>2012-11-30T03:27:03.697</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -370,21 +370,21 @@ namespace KidApp2.Data
             this.AllGroups.Add(group5);
 
             var group6 = new SampleDataGroup("Group-6",
-                    "Math",
+                    "Reading",
                     "",
-                    "Assets/MathFront.jpg",
+                    "Assets/ReadFront.jpg",
                     "");
             group6.Items.Add(new SampleDataItem("Group-6-Item-1",
-                    "Basic Math",
+                    "Cat and Dog",
                     "",
-                    "Assets/MathBasic.jpg",
-                    "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+                    "Assets/Book0.png",
+                    "",
                     ITEM_CONTENT,
                     group6));
             group6.Items.Add(new SampleDataItem("Group-6-Item-2",
-                    "Counting Game",
+                    "Vincent Van Gogh",
                     "",
-                    "Assets/MathCount.png",
+                    "Assets/Book1.png",
                     "",
                     ITEM_CONTENT,
                     group6));
