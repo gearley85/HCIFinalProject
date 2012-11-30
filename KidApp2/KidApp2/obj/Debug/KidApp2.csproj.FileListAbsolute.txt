@@ -180,3 +180,14 @@ C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\pricon
 C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\layout.resfiles.intermediate
 C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\resources.resfiles.intermediate
 C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\obj\Debug\pri.resfiles.intermediate
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\Book0.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\Book1.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\crayons.png
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\MathBasic.jpg
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\MathCount.PNG
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\MathFront.jpg
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ReadFront.jpg
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ShapeFront.jpg
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ShapeIntro.jpg
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ShapeMatching.jpg
+C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\skyandclouds.png
