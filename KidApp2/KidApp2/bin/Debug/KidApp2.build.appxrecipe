@@ -40,6 +40,9 @@
     <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\colors.png">
       <PackagePath>Assets\colors.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\crayons.png">
+      <PackagePath>Assets\crayons.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bob\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

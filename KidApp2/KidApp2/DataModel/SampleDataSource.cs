@@ -328,7 +328,7 @@ namespace KidApp2.Data
             var group4 = new SampleDataGroup("Group-4",
                     "Colors",
                     "",
-                    "Assets/colors.png",
+                    "Assets/crayons.png",
                     "Group Description: ");
             group4.Items.Add(new SampleDataItem("Group-4-Item-1",
                     "Coloring Pages",

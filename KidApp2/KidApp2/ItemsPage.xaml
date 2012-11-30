@@ -47,7 +47,7 @@
             SelectionMode="None"
             IsSwipeEnabled="false"
             IsItemClickEnabled="True"
-            ItemClick="ItemView_ItemClick" Background="#CC2020FD" Margin="0,0,0,0"/>
+            ItemClick="ItemView_ItemClick" Background="#CC2020FD" Margin="10,0,-10,0"/>
 
         <!-- Vertical scrolling list only used when snapped -->
         <ListView
