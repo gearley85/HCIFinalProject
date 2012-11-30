@@ -191,3 +191,4 @@ C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Asse
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ShapeIntro.jpg
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ShapeMatching.jpg
 C:\Users\Gearley\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\skyandclouds.png
+C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\Assets\ShapesNew.jpg

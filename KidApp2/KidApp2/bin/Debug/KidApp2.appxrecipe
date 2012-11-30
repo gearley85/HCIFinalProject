@@ -119,6 +119,9 @@
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapeMatching.jpg">
       <PackagePath>Assets\ShapeMatching.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapesNew.jpg">
+      <PackagePath>Assets\ShapesNew.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
     </AppxPackagedFile>

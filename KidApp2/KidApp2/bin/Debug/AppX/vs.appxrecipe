@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-30T03:27:03.714</Modified>
+      <Modified>2012-11-30T13:52:49.826</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.exe">
       <PackagePath>KidApp2.exe</PackagePath>
-      <Modified>2012-11-30T13:05:21.004</Modified>
+      <Modified>2012-11-30T13:52:49.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\KidApp2.pdb">
       <PackagePath>KidApp2.pdb</PackagePath>
-      <Modified>2012-11-30T13:05:20.988</Modified>
+      <Modified>2012-11-30T13:52:49.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ABC.png">
       <PackagePath>Assets\ABC.png</PackagePath>
@@ -160,6 +160,10 @@
       <PackagePath>Assets\ShapeMatching.jpg</PackagePath>
       <Modified>2012-11-30T02:50:54.487</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\Assets\ShapesNew.jpg">
+      <PackagePath>Assets\ShapesNew.jpg</PackagePath>
+      <Modified>2012-11-30T13:51:31.429</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
       <Modified>2012-11-30T02:50:54.464</Modified>
@@ -170,15 +174,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\ItemsPage.xaml">
       <PackagePath>ItemsPage.xaml</PackagePath>
-      <Modified>2012-11-30T13:05:19.853</Modified>
+      <Modified>2012-11-30T13:40:58.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\SplitPage.xaml">
       <PackagePath>SplitPage.xaml</PackagePath>
-      <Modified>2012-11-30T13:05:19.858</Modified>
+      <Modified>2012-11-30T13:43:49.311</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fariz\Documents\GitHub\HCIFinalProject\KidApp2\KidApp2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-11-30T03:27:03.697</Modified>
+      <Modified>2012-11-30T13:52:49.729</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
